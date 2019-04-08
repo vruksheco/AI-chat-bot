@@ -1,0 +1,72 @@
+Where do you live?
+quit
+s this the location you meant(y for yes, anythin else for no) :
+y
+ask me something :
+what is the height of burj khalifa?
+I can provide you with a url. Are you sure you want me to do a google search?(y or n)
+y
+ask me something :
+what is the price of a royal oak
+I can provide you with a url. Are you sure you want me to do a google search?(y or n)
+y
+ask me something :
+what is the distance from hyderabad to nellore
+ask me something :
+whats the forecast for tomorrow?
+ask me something :
+how you doing?
+I'm doing great, how about you?
+ask me something :
+not bad id say
+Oh I get it.
+ask me something :
+really?
+Yes.
+ask me something :
+well the, bye
+Goodbye .
+ask me something :
+quit
+
+
+Where do you live?
+hyd
+is this the location you meant(y for yes, anythin else for no) : 
+y
+ask me something : 
+lite
+I do not understand. What is your occupation?
+ask me something : 
+im a driver
+You are a driver? Is that your job?
+ask me something : 
+yes
+I understand.
+ask me something : 
+im hungry
+would you like to know some places to have food?
+y
+you can try :
+-->bitsnbytes near mess 1 lawns
+-->c3 near mess 2 lawns
+-->bits and bytes near cp
+-->yummpy's near mess 1 lawns
+-->more near cp
+-->heritage near cp
+ask me something : 
+id like to have a veg puff
+you can find it in :
+--> bitsnbytes near mess 1 lawns
+--> bits and bytes near cp
+--> yummpy's near mess 1 lawns
+ask me something : 
+how about chicken roll
+you can find it in :
+--> bitsnbytes near mess 1 lawns
+--> bits and bytes near cp
+ask me something : 
+thanks, bye
+Until next time .
+ask me something : 
+quit

@@ -1,0 +1,600 @@
+<bits>
+	<item>
+		<name updated="yes">paneer roll</name>
+		<price>30</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">rolls</cat>
+		<cat updated="yes">paneer</cat>
+		<store updated="yes">bitsnbytes</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">paneer baegel</name>
+		<price>70</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">paneer</cat>
+		<store updated="yes">bitsnbytes</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">grilled chicken</name>
+		<price>80</price>
+		<cat updated="yes">non veg</cat>
+		<store updated="yes">bitsnbytes</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">double meat</name>
+		<price>80</price>
+		<cat updated="yes">non veg</cat>
+		<cat updated="yes">sandwich</cat>
+		<store updated="yes">bitsnbytes</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">pasta sandwich</name>
+		<price>70</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">sandwich</cat>
+		<store updated="yes">bitsnbytes</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">spicy triple</name>
+		<price>90</price>
+		<cat updated="yes">veg</cat>
+		<store updated="yes">bitsnbytes</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">veg puff</name>
+		<price>30</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">puff</cat>
+		<store updated="yes">bitsnbytes</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">chicken puff</name>
+		<price>30</price>
+		<cat updated="yes">non veg</cat>
+		<cat updated="yes">puff</cat>
+		<store updated="yes">bitsnbytes</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">chicken roll</name>
+		<price>40</price>
+		<cat updated="yes">non veg</cat>
+		<cat updated="yes">roll</cat>
+		<store updated="yes">bitsnbytes</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">plan donuts</name>
+		<price>30</price>
+		<cat updated="yes">confectionery</cat>
+		<cat updated="yes">donuts</cat>
+		<store updated="yes">bitsnbytes</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">stuff donuts</name>
+		<price>30</price>
+		<cat updated="yes">confectionery</cat>
+		<cat updated="yes">donuts</cat>
+		<store updated="yes">bitsnbytes</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">belgian brownie</name>
+		<price>50</price>
+		<cat updated="yes">confectionery</cat>
+		<store updated="yes">bitsnbytes</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">swiss roll</name>
+		<price>50</price>
+		<cat updated="yes">confectionery</cat>
+		<cat updated="yes">choclate</cat>
+		<store updated="yes">bitsnbytes</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">idly</name>
+		<price>35</price>
+		<cat updated="yes">veg</cat>
+		<store updated="yes">c3</store>
+		<location updated="yes">mess 2 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">idly with chicken curry</name>
+		<price>60</price>
+		<cat updated="yes">non veg</cat>
+		<store updated="yes">c3</store>
+		<location updated="yes">mess 2 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">vada</name>
+		<price>40</price>
+		<cat updated="yes">veg</cat>
+		<store updated="yes">c3</store>
+		<location updated="yes">mess 2 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">mini sambar vada</name>
+		<price>50</price>
+		<cat updated="yes">veg</cat>
+		<store updated="yes">c3</store>
+		<location updated="yes">mess 2 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">ice creams</name>
+		<price>50-150</price>
+		<cat updated="yes">cold</cat>
+		<cat updated="yes">choclate</cat>
+		<store updated="yes">c3</store>
+		<location updated="yes">mess 2 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">poori</name>
+		<price>60</price>
+		<cat updated="yes">veg</cat>
+		<store updated="yes">c3</store>
+		<location updated="yes">mess 2 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">plain dosa</name>
+		<price>40</price>
+		<cat updated="yes">veg</cat>
+		<store updated="yes">c3</store>
+		<location updated="yes">mess 2 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">dosa with chicken curry</name>
+		<price>60</price>
+		<cat updated="yes">non veg</cat>
+		<store updated="yes">c3</store>
+		<location updated="yes">mess 2 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">corn samosa</name>
+		<price>20</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">samosa</cat>
+		<store updated="yes">c3</store>
+		<location updated="yes">mess 2 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">aloo samosa</name>
+		<price>15</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">samosa</cat>
+		<store updated="yes">c3</store>
+		<location updated="yes">mess 2 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">paneer puff</name>
+		<price>30</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">paneer</cat>
+		<cat updated="yes">puff</cat>
+		<store updated="yes">c3</store>
+		<location updated="yes">mess 2 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">chicken tikka puff</name>
+		<price>50</price>
+		<cat updated="yes">non veg</cat>
+		<cat updated="yes">puff</cat>
+		<store updated="yes">c3</store>
+		<location updated="yes">mess 2 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">choclate pastry</name>
+		<price>30</price>
+		<cat updated="yes">choclate</cat>
+		<cat updated="yes">confectionery</cat>
+		<store updated="yes">c3</store>
+		<location updated="yes">mess 2 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">cheese grilled sandwich</name>
+		<price>50</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">sandwich</cat>
+		<store updated="yes">c3</store>
+		<location updated="yes">mess 2 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">veg puff</name>
+		<price>25</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">puff</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">cool drinks</name>
+		<price>25-40</price>
+		<cat updated="yes">cool</cat>
+		<cat updated="yes">drinks</cat>
+		<cat updated="yes">beverages</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">paneer puff</name>
+		<price>30</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">puff</cat>
+		<cat updated="yes">paneer</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">corn puff</name>
+		<price>25</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">puff</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">egg puff</name>
+		<price>25</price>
+		<cat updated="yes">puff</cat>
+		<cat updated="yes">non veg</cat>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">egg</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">chicken puff</name>
+		<price>30</price>
+		<cat updated="yes">puff</cat>
+		<cat updated="yes">chicken</cat>
+		<cat updated="yes">non veg</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">veg roll</name>
+		<price>30</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">roll</cat>
+		<cat updated="yes">puff</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">paneer roll</name>
+		<price>30</price>
+		<cat updated="yes">puff</cat>
+		<cat updated="yes">roll</cat>
+		<cat updated="yes">paneer</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">chicken roll</name>
+		<price>40</price>
+		<cat updated="yes">roll</cat>
+		<cat updated="yes">puff</cat>
+		<cat updated="yes">non veg</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">choco pastry</name>
+		<price>50</price>
+		<cat updated="yes">choclate</cat>
+		<cat updated="yes">confectionery</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">choco sandwich</name>
+		<price>50</price>
+		<cat updated="yes">choclate</cat>
+		<cat updated="yes">confectionery</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">swiss roll</name>
+		<price>50</price>
+		<cat updated="yes">choclate</cat>
+		<cat updated="yes">confectionery</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">volcano</name>
+		<price>30</price>
+		<cat updated="yes">confectionery</cat>
+		<cat updated="yes">choclate</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">paneer kathi roll</name>
+		<price>70</price>
+		<cat updated="yes">paneer</cat>
+		<cat updated="yes">roll</cat>
+		<cat updated="yes">veg</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">chicken kathi roll</name>
+		<price>80</price>
+		<cat updated="yes">roll</cat>
+		<cat updated="yes">non veg</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">pastries</name>
+		<price>30-70</price>
+		<cat updated="yes">confectionery</cat>
+		<cat updated="yes">choclate</cat>
+		<store updated="yes">bits and bytes</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">noodle</name>
+		<price>30-70</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">non veg</cat>
+		<cat updated="yes">egg</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">egg puff</name>
+		<price>25</price>
+		<cat updated="yes">puff</cat>
+		<cat updated="yes">non veg</cat>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">egg</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">chicken puff</name>
+		<price>30</price>
+		<cat updated="yes">puff</cat>
+		<cat updated="yes">chicken</cat>
+		<cat updated="yes">non veg</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">veg puff</name>
+		<price>25</price>
+		<cat updated="yes">puff</cat>
+		<cat updated="yes">veg</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">french fries</name>
+		<price>40</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">potato</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">masala fries</name>
+		<price>50</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">potato</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">butter garlic fries</name>
+		<price>55</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">potato</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">honey chilli fries</name>
+		<price>65</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">potato</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">yummpy's chicken</name>
+		<price>70</price>
+		<cat updated="yes">non veg</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">soups</name>
+		<price>20</price>
+		<cat updated="yes">veg</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">soda</name>
+		<price>10</price>
+		<cat updated="yes">drinks</cat>
+		<cat updated="yes">beverages</cat>
+		<cat updated="yes">cold</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">paneer sandwich</name>
+		<price>45</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">paneer</cat>
+		<cat updated="yes">sandwich</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">omlette(various flavours)</name>
+		<price>25-45</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">non veg</cat>
+		<cat updated="yes">egg</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">bread omelette</name>
+		<price>35</price>
+		<cat updated="yes">veg</cat>
+		<cat updated="yes">egg</cat>
+		<cat updated="yes">non veg</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">ice creams</name>
+		<price>15-50</price>
+		<cat updated="yes">cold</cat>
+		<cat updated="yes">choclate</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes"> coffee and tea</name>
+		<prices>10</prices>
+		<cat updated="yes">drinks</cat>
+		<cat updated="yes">beverages</cat>
+		<cat updated="yes">hot</cat>
+		<store updated="yes">yummpy's</store>
+		<location updated="yes">mess 1 lawns</location>
+	</item>
+	<item>
+		<name updated="yes">quality walls ice creams</name>
+		<price>15-60</price>
+		<cat updated="yes">cold</cat>
+		<cat updated="yes">choclate</cat>
+		<store updated="yes">more</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">biscuits</name>
+		<price>10-90</price>
+		<store updated="yes">more</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">choclates</name>
+		<price>10-200</price>
+		<cat updated="yes">choclate</cat>
+		<store updated="yes">more</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">bread</name>
+		<price>30-60</price>
+		<cat updated="yes">veg</cat>
+		<store updated="yes">more</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">cool drinks</name>
+		<price>25-40</price>
+		<cat updated="yes">cool</cat>
+		<cat updated="yes">drinks</cat>
+		<cat updated="yes">beverages</cat>
+		<store updated="yes">more</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">milk</name>
+		<price>15</price>
+		<cat updated="yes">cool</cat>
+		<cat updated="yes">drinks</cat>
+		<store updated="yes">more</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">milk shakes</name>
+		<price>35</price>
+		<cat updated="yes">cool</cat>
+		<cat updated="yes">drinks</cat>
+		<cat updated="yes">choclate</cat>
+		<store updated="yes">more</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">milk</name>
+		<price>15</price>
+		<cat updated="yes">cool</cat>
+		<cat updated="yes">drinks</cat>
+		<store updated="yes">heritage</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">lassi</name>
+		<price>20</price>
+		<cat updated="yes">cool</cat>
+		<cat updated="yes">drinks</cat>
+		<store updated="yes">heritage</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">butter milk</name>
+		<price>15</price>
+		<cat updated="yes">cool</cat>
+		<cat updated="yes">drinks</cat>
+		<store updated="yes">heritage</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">flavoured milk</name>
+		<price>25-35</price>
+		<cat updated="yes">cool</cat>
+		<cat updated="yes">drinks</cat>
+		<store updated="yes">heritage</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">milk</name>
+		<price>15</price>
+		<cat updated="yes">cool</cat>
+		<cat updated="yes">drinks</cat>
+		<store updated="yes">heritage</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">lassi</name>
+		<price>20</price>
+		<cat updated="yes">cool</cat>
+		<cat updated="yes">drinks</cat>
+		<store updated="yes">heritage</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">butter milk</name>
+		<price>15</price>
+		<cat updated="yes">cool</cat>
+		<cat updated="yes">drinks</cat>
+		<store updated="yes">heritage</store>
+		<location updated="yes">cp</location>
+	</item>
+	<item>
+		<name updated="yes">flavoured milk</name>
+		<price>25-45</price>
+		<cat updated="yes">cool</cat>
+		<cat updated="yes">drinks</cat>
+		<store updated="yes">heritage</store>
+		<location updated="yes">cp</location>
+	</item>
+</bits>

@@ -1,0 +1,12 @@
+<domain type='kmc' id='007'>
+  <name>virtual bug</name>
+  <uuid>66523dfdf555dfd</uuid>
+  <os>
+    <type arch='xintel' machine='ubuntu'>hvm</type>
+    <boot dev='hd'/>
+    <boot dev='cdrom'/>
+  </os>
+  <memory unit='KiB'>524288</memory>
+  <currentMemory unit='KiB'>270336</currentMemory>
+  <vcpu placement='static'>10</vcpu>
+</domain>
